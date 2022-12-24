@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>480274957023-n8kj7n732502n0rc7hjdmoim5837jthv.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.480274957023-n8kj7n732502n0rc7hjdmoim5837jthv</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>480274957023-agr3qpnvurupulbnel1mfim7nuhql62t.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyArNWHOWB54jSJKVViy3WWVTDV-jcAAnLU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>480274957023</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>cs.contactless.user</string>
+	<key>PROJECT_ID</key>
+	<string>cshopping-4063a</string>
+	<key>STORAGE_BUCKET</key>
+	<string>cshopping-4063a.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:480274957023:ios:98cf7c3182d6c88a97df6a</string>
+</dict>
+</plist>
